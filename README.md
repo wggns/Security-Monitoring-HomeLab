@@ -298,7 +298,7 @@ sudo: system: command not found
 - **Monitoring confirms attacks work** — the Grafana traffic spike during the Hydra test proved the stack was capturing real security events, not just background noise.
 - **Fail2ban is essential on any SSH-exposed host** — automated ban logic closes the gap that tools like Hydra are designed to exploit.
 - **Physical labs teach differently than VMs** — working with real hardware, real cables, and real switch ports builds a different kind of understanding.
-- **Document as you go** — screenshots taken during troubleshooting became the most valuable part of this documentation.
+
 
 ---
 
