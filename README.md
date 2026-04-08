@@ -1,10 +1,6 @@
-# 🏠 WGGN Zero Trust Homelab — Monitoring & Security Lab
+# 🏠 Zero Trust Homelab — Monitoring & Security Lab
 
 > A hands-on homelab built from physical hardware, focused on infrastructure monitoring and practical cybersecurity skills using open-source tools.
-
-![GitHub last commit](https://img.shields.io/github/last-commit/wigginsjeanfrancois/wggn-homelab)
-![GitHub repo size](https://img.shields.io/github/repo-size/wigginsjeanfrancois/wggn-homelab)
-
 ---
 
 ## 📋 Table of Contents
