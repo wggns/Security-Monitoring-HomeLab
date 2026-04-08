@@ -2,9 +2,6 @@
 
 > A hands-on homelab built from physical hardware, focused on network segmentation, infrastructure monitoring, and practical cybersecurity skills using open-source tools.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/wigginsjeanfrancois/wggn-homelab)
-![GitHub repo size](https://img.shields.io/github/repo-size/wigginsjeanfrancois/wggn-homelab)
-
 ---
 
 ## 📋 Table of Contents
