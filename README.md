@@ -1,4 +1,4 @@
-# 🏠 Zero Trust Homelab — Monitoring & Security Lab
+# 🏠 Security Monitoring Homelab
 
 > A hands-on homelab built from physical hardware, focused on infrastructure monitoring and practical cybersecurity skills using open-source tools.
 ---
